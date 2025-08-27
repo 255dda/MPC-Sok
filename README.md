@@ -14,3 +14,16 @@ We test basic operations (+, *) in the malicious setting, for 128-bit input valu
 We formalize basic operations based on the AND gate implemented in the repository batchDualEx (https://github.com/osu-crypto/batchDualEx).
 
 ## EMP-toolkit
+
+## ABY^3
+
+## SEAL
+
+## TFEncrypted
+
+## EzPC
+
+## CrypTen
+
+## SecretFlow
+
