@@ -15,7 +15,7 @@ We formalize basic operations based on the AND gate implemented in the repositor
 
 ## EMP-toolkit
 
-## ABY^3
+## ABY3
 
 ## SEAL
 
